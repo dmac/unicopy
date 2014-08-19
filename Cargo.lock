@@ -2,7 +2,7 @@
 name = "unicopy"
 version = "0.0.1"
 dependencies = [
- "clipboard 0.0.1 (git+https://github.com/dmac/clipboard#b6b679447360e8bb2cc4e3bbad2a52b137001364)",
+ "clipboard 0.0.1 (git+https://github.com/dmac/clipboard#eff3fedf765a37b5a7a87113f01eee496f210ac9)",
  "http 0.1.0-pre (git+https://github.com/chris-morgan/rust-http#16d3999e37aa0e0ae8550d6fba224ef2717337c7)",
  "url 0.1.0 (git+https://github.com/servo/rust-url#ec468b202a67ed8e17119bf871d897f68f7d858a)",
 ]
@@ -10,7 +10,7 @@ dependencies = [
 [[package]]
 name = "clipboard"
 version = "0.0.1"
-source = "git+https://github.com/dmac/clipboard#b6b679447360e8bb2cc4e3bbad2a52b137001364"
+source = "git+https://github.com/dmac/clipboard#eff3fedf765a37b5a7a87113f01eee496f210ac9"
 
 [[package]]
 name = "encoding"
