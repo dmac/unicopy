@@ -13,3 +13,5 @@ Install [Rust](http://www.rust-lang.org/) and [cargo](https://github.com/rust-la
 and build with `cargo build`, or download a pre-built binary:
 
 * [unicopy-x86_64-apple-darwin.tar.gz](https://www.dropbox.com/s/jcfsi4h8vlchky0/unicopy-x86_64-apple-darwin.tar.gz?dl=0)
+* [unicopy-x86_64-unknown-linux-gnu.tar.gz](https://www.dropbox.com/s/6wsx4srr7f90g8n/unicopy-x86_64-unknown-linux-gnu.tar.gz?dl=0)
+  * requires xclip
