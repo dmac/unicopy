@@ -12,6 +12,6 @@ Search for unicode characters and copy them to your clipboard
 Install [Rust](http://www.rust-lang.org/) and [cargo](https://github.com/rust-lang/cargo)
 and build with `cargo build`, or download a pre-built binary:
 
-* [unicopy-x86_64-apple-darwin.tar.gz](https://www.dropbox.com/s/jcfsi4h8vlchky0/unicopy-x86_64-apple-darwin.tar.gz?dl=0)
-* [unicopy-x86_64-unknown-linux-gnu.tar.gz](https://www.dropbox.com/s/6wsx4srr7f90g8n/unicopy-x86_64-unknown-linux-gnu.tar.gz?dl=0)
+* [unicopy-x86_64-apple-darwin.tar.gz](https://dl.dropboxusercontent.com/content_link/hsrd0iaiBdx0Sru4xJpMv6GtKfSSBEcq3jJm162yGtep5DzuZ6n7Nj5hGMxhww6O?dl=1)
+* [unicopy-x86_64-unknown-linux-gnu.tar.gz](https://dl.dropboxusercontent.com/content_link/Tc2kOpXPrIL9qku1unTr2llO0jRUlDV9UeE4HBjzVBj2Kr5dZ1Ta2tAbVXyjDpkK?dl=1)
   * requires xclip
